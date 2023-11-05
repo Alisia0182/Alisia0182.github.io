@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alice-182.github.io/homepage//sitemap.xml
+Sitemap: https://alice-182.github.io/sitemap.xml
