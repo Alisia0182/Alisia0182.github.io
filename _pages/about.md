@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Current SJTU undergrad. Current MSRA intern. Former Google intern.    # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Have fun!   # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -18,4 +18,8 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-Have fun!
+Current SJTU undergrad. 
+
+Current MSRA intern. 
+
+Former Google intern.
