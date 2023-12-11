@@ -46,10 +46,12 @@
   "volunteer": [],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Zhiyuan Honors Scholarship",
+      "date": "2021 & 2022 & 2023",
+    },
+    {
+      "title": "Chandlar-Chi Family Scholarship",
+      "date": "2022.12",
     }
   ],
   "certificates": [],
@@ -57,7 +59,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese(Mandarin)",
       "fluency": "Native speaker"
     },
     {
