@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Have fun!   # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: Have fun!   
 profile:
   align: right
   image: prof_pic.jpg
@@ -19,7 +18,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 Current SJTU undergrad. 
-
 Current MSRA intern. 
-
 Former Google intern.
