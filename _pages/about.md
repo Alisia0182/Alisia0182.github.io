@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: SJTU undergrad | Current MSRA intern | Former Google intern
+subtitle: <u> jinyiw@utexas.edu</u> | SJTU undergrad | Current MSRA intern | Former Google intern 
 profile:
   align: right
   image: prof_pic.jpg
